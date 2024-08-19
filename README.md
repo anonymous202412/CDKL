@@ -5,3 +5,6 @@ Remote sensing images (RSIs) often suffer from degradation caused by haze, leadi
 # Key words
 
 Remote sensing, segmentation, dehazing, knowledge learning
+
+# Code 
+The code will be available after this paper is accepted.
